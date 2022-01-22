@@ -1,1 +1,1 @@
-Wecome to my github page!
+<centre>Welcome to my github page!</centre>
